@@ -1,0 +1,22 @@
+{
+  "name": "assembleyscript",
+  "version": "1.0.0",
+  "description": "my first smart contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreyash76076/AssembleyScript.git"
+  },
+  "author": "shreyash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shreyash76076/AssembleyScript/issues"
+  },
+  "homepage": "https://github.com/shreyash76076/AssembleyScript#readme",
+  "devDependencies": {
+    "near-sdk-as": "^3.2.3"
+  }
+}
